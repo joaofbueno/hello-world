@@ -1,1 +1,6 @@
-Hello World
+<?php
+require_once("helper.php");
+
+helloWorld();
+
+?>
